@@ -1,0 +1,158 @@
+
+#header
+{
+background-color: #63b7af;
+font-family: 'Montserrat', sans-serif;
+padding-bottom: 70px;
+
+}
+.navbar
+{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand
+{
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  font-size: 1.50rem;
+
+}
+.nav-link
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+.plantstext
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+}
+.container-fluid
+{
+  padding: 1% 30% 1% 30%;
+}
+i
+{
+  padding-left: 10px;
+}
+#headertext
+{
+  text-align: center;
+      margin-top: 3.5rem;
+      font-weight: bold;
+}
+.download
+{
+  margin: 5% 3% 5% 0;
+}
+.titleimage
+{
+  transform: rotate(20deg);
+    width: 45%;
+    height: 107%;
+    padding-top: 60px;
+}
+#features
+{
+  padding: 2% 15% 1% 15%;
+    background: #fcf9f3;
+}
+.featurebox
+{
+  text-align: center;
+  padding: 5%;
+}
+.innovative
+{
+  margin-bottom: 1rem;
+}
+.living
+{
+  height: 51%;
+  margin-bottom: 1rem;
+}
+
+h3
+{
+  font-family: 'Montserrat-bold';
+}
+p
+{
+  color: #8f8f8f;
+}
+#carousel
+{
+  background: #fcf9f3;
+}
+.carousel-item
+{
+  align-items: center;
+}
+.carousel-inner .carousel-item img
+{
+  margin: auto;
+}
+.buy
+{
+  width: 103%;
+    margin: auto;
+}
+.bodyheading
+{
+  text-align: center;
+  padding-top: 1rem;
+}
+#price
+{
+  padding-top: 2%;
+  background: #fcf9f3;
+}
+.card-header
+{
+  text-align: center;
+}
+.priceheading
+{
+  text-align: center;
+}
+.pricepagh
+{
+  text-align: center;
+}
+.carousel-control-prev
+{
+  filter: invert(100%);
+}
+.carousel-control-next
+{
+  filter: invert(100%);
+}
+#footer
+{
+  background-color: #63b7af;
+  text-align: center;
+  padding: 7% 15%;
+}
+.footerparagh
+{
+  color: black;
+}
+#colors
+{
+  color: red;
+}
+@media (max-width: 1028px) {
+  .headertext
+  {
+    text-align: center;
+  }
+  .titleimage
+  {
+
+    transform: rotate(0);
+      width: 45%;
+      height: 107%;
+        margin-left: 16rem;
+  }
+
+}
